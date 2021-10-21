@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, machine learning, programming languages and software development.
 - 🌱 I’m currently busy with final year courses and looking for a co-op.
 - 💞️ I’m looking to collaborate on various computer science projects.
-- 📫 You can reach me here or through my email: rpa47@sfu.ca
+- 📫 You can reach me here or through my email: ash_peng@sfu.ca
 
 <!---
 ru-peng/ru-peng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
